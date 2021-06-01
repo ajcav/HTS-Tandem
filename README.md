@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ajcav/">
-    <img src="images/HAMMER.png" alt="Logo" width="80" height="80">
+    <img src="images/HAMMER.png" alt="Logo" width="800" height="450">
   </a>
 
   <h3 align="center">HTS Axisymmetric Tandem Mirror Design</h3>
